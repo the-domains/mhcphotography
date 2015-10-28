@@ -1,0 +1,23 @@
+name: MHCPhotography
+favicon: null
+layout_spectrum: 0.46468357602134347
+typography_spectrum: 0.7822721139527857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.284395003458485
+  lightness: 0.9203377023804933
+  saturation: 0.03232650342397392
+  rhythmicContrast: 0.31762557849287987
+purpose: []
