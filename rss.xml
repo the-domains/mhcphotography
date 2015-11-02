@@ -4,8 +4,15 @@
         <description><![CDATA[Automotive Photographer & Filmmaker]]></description>
         <link>https://thegrid.ai/mhcphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 02:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 02:35:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mhcphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Audi S3]]></title>
+            <description><![CDATA[<article><h1>Audi S3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df86dbb0-0c47-4342-b85d-971a91a3b6ff.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mhcphotography/34218350-1271-4c6b-b871-9304baff097e/index.html</link>
+            <guid isPermaLink="false">34218350-1271-4c6b-b871-9304baff097e</guid>
+            <pubDate>Mon, 02 Nov 2015 02:34:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Audi S7]]></title>
             <description><![CDATA[<article><h1>The Audi S7</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02f2106c-d4bc-4aa3-8965-552fe4235482.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mhcphotography/36d8d065-30cd-42ca-8936-e259433bb72b/index.html</link>
             <guid isPermaLink="false">36d8d065-30cd-42ca-8936-e259433bb72b</guid>
             <pubDate>Mon, 02 Nov 2015 02:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stingray Logo]]></title>
-            <description><![CDATA[<article><h1>Stingray Logo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7da47a3a-35c9-479b-9d4f-ad9560ecdbb1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mhcphotography/f08d467e-475e-4afc-bbde-01f6498dfe6b/index.html</link>
-            <guid isPermaLink="false">f08d467e-475e-4afc-bbde-01f6498dfe6b</guid>
-            <pubDate>Mon, 02 Nov 2015 02:14:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
