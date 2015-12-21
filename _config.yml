@@ -1,6 +1,6 @@
 name: MHCPhotography
 favicon: null
-layout_spectrum: 0.61248
+layout_spectrum: 0.49785
 typography_spectrum: 0.59447
 title: 'Mike Cutler // Automotive Photographer & Filmmaker'
 collections:
@@ -34,8 +34,8 @@ color:
     - '#f1ec3e'
     - '#969326'
     - '#525115'
-  brandStrength: 1
-  lightness: 0.6875
-  saturation: 0.3125
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
