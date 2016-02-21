@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Mike Cutler
-    url: 'http://vimeo.com/mhcphotography'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - mhcphotos
   - '3058'
@@ -21,7 +16,13 @@ keywords:
   - album
   - backgrounds
 description: '2014 was another great year! Take a look and see! www.mhcphotography.com mhcphotos@gmail.com 407.437.3058'
-inLanguage: en
+datePublished: '2016-02-21T19:02:03.379Z'
+dateModified: '2016-02-21T19:01:20.659Z'
+author:
+  - name: Mike Cutler
+    url: 'http://vimeo.com/mhcphotography'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/118630507'
     type: ios
@@ -32,15 +33,16 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/118630507'
-title: MHCPhotography Demo Reel 2015
-datePublished: '2016-02-06T22:45:03.040Z'
-dateModified: '2016-02-06T22:37:36.787Z'
+title: 'Demo Reel '
 sourcePath: _posts/2016-02-06-mhcphotography-demo-reel-2015.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: demo-reel/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
