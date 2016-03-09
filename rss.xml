@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Cutler // Automotive Photographer & Filmmaker]]></description>
         <link>https://thegrid.ai/mhcphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 04:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 04:20:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mhcphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce18efc3-6a8f-422b-a214-97af35f473de.jpg">]]></description>
+            <link>https://thegrid.ai/mhcphotography/3a2e3f42-5d0a-4b88-aed2-b6a68a6c6dbd/index.html</link>
+            <guid isPermaLink="false">3a2e3f42-5d0a-4b88-aed2-b6a68a6c6dbd</guid>
+            <pubDate>Wed, 09 Mar 2016 04:18:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c4d8f7-d80d-4145-a6a6-8b634e5bf1f4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mhcphotography/36d8d065-30cd-42ca-8936-e259433bb72b/index.html</link>
             <guid isPermaLink="false">36d8d065-30cd-42ca-8936-e259433bb72b</guid>
             <pubDate>Sat, 14 Nov 2015 16:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stingray Logo]]></title>
-            <description><![CDATA[<article><h1>Stingray Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a148a7638463b4041edf187263a3346d7e8d56b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mhcphotography/f08d467e-475e-4afc-bbde-01f6498dfe6b/index.html</link>
-            <guid isPermaLink="false">f08d467e-475e-4afc-bbde-01f6498dfe6b</guid>
-            <pubDate>Sat, 14 Nov 2015 16:41:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
