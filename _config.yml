@@ -1,41 +1,41 @@
-name: MHCPhotography
-favicon: null
-layout_spectrum: 0.49785
-typography_spectrum: 0.59447
 title: 'Mike Cutler // Automotive Photographer & Filmmaker'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.625
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#000000'
     - '#e7e7e8'
     - '#f1ec3e'
     - '#969326'
     - '#525115'
-  brandStrength: 0
-  lightness: 0.3125
-  saturation: 0.625
   rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: MHCPhotography
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.59447
+layout_spectrum: 0.1971326
