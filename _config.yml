@@ -1,8 +1,36 @@
-name: MHCPhotography
-favicon: null
-layout_spectrum: 0.41519769630394876
 typography_spectrum: 0.59447
-title: Mike Cutler // Automotive Photographer & Filmmaker
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.9874625934753567
+  lightness: 0.9689007757697254
+  saturation: 0.31020796787925065
+  rhythmicContrast: 0.09904777235351503
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.41519769630394876
+analytics:
+  google: UA-22711039-2
+  facebook: null
+  twitter: null
+author:
+  name: Mike Cutler
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8092f21f-1fce-4788-b454-fdc3bf1db82c.jpg
+name: MHCPhotography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
 collections:
   - index:
       path: /
@@ -15,27 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-22711039-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  brandStrength: 0.9874625934753567
-  lightness: 0.9689007757697254
-  saturation: 0.31020796787925065
-  rhythmicContrast: 0.09904777235351503
+title: Mike Cutler // Automotive Photographer & Filmmaker
 purpose: []
