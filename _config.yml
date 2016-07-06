@@ -1,47 +1,47 @@
-typography_spectrum: 0.59447
-color:
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  brandStrength: 0.9874625934753567
-  lightness: 0.9689007757697254
-  saturation: 0.31020796787925065
-  rhythmicContrast: 0.09904777235351503
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.41519769630394876
-analytics:
-  google: UA-22711039-2
-  facebook: null
-  twitter: null
-author:
-  name: Mike Cutler
-  email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8092f21f-1fce-4788-b454-fdc3bf1db82c.jpg
-name: MHCPhotography
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
+title: Mike Cutler // Automotive Photographer & Filmmaker
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Mike Cutler // Automotive Photographer & Filmmaker
-purpose: []
+color:
+  saturation: 0.3102079678792506
+  brandStrength: 0.9874625934753567
+  lightness: 0.9689007757697254
+  brandColors:
+    - '#FFFFFE'
+    - '#1B1919'
+    - '#EFE847'
+    - '#6C6D6C'
+    - '#B4B4B3'
+  rhythmicContrast: 0.09904777235351503
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-22711039-2
+  facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
+name: MHCPhotography
+author:
+  name: Mike Cutler
+  email: ''
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8092f21f-1fce-4788-b454-fdc3bf1db82c.jpg
+typography_spectrum: 0.59447
+layout_spectrum: 0.4151976963039488
