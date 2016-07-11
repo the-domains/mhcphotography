@@ -42,10 +42,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/118630507'
 title: MHCPhotography Demo Reel 2015
-datePublished: '2016-07-11T02:32:30.302Z'
-dateModified: '2016-07-11T02:32:30.029Z'
+datePublished: '2016-07-11T02:32:31.552Z'
+dateModified: '2016-07-11T02:32:31.320Z'
 sourcePath: _posts/2016-07-11-mhcphotography-demo-reel-2015.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
