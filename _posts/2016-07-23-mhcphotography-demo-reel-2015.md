@@ -40,16 +40,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/118630507'
 title: MHCPhotography Demo Reel 2015
-datePublished: '2016-07-23T16:25:53.166Z'
-dateModified: '2016-07-23T16:18:35.165Z'
+datePublished: '2016-07-23T16:27:01.225Z'
+dateModified: '2016-07-23T16:27:00.942Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-mhcphotography-demo-reel-2015.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: mhcphotography-demo-reel-2015/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
