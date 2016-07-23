@@ -1,5 +1,41 @@
-title: Mike Cutler // Automotive Photographer & Filmmaker
-purpose: []
+typography_spectrum: 0.59447
+color:
+  saturation: 0.3102079678792506
+  brandStrength: 0.9874625934753567
+  lightness: 0.9689007757697254
+  brandColors:
+    - '#FFFFFE'
+    - '#1B1919'
+    - '#EFE847'
+    - '#6C6D6C'
+    - '#B4B4B3'
+  rhythmicContrast: 0.09904777235351503
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4151976963039488
+analytics:
+  twitter: null
+  google: UA-22711039-2
+  facebook: null
+author:
+  name: Mike Cutler
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8092f21f-1fce-4788-b454-fdc3bf1db82c.jpg
+name: MHCPhotography
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - id: bb59659c-481f-4923-a74e-74fb73e795d1
+    url: 2016-07-23-mhcphotography-demo-reel-2015.html
+    name: 'Demo Reel '
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
 collections:
   - index:
       path: /
@@ -12,36 +48,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3102079678792506
-  brandStrength: 0.9874625934753567
-  lightness: 0.9689007757697254
-  brandColors:
-    - '#FFFFFE'
-    - '#1B1919'
-    - '#EFE847'
-    - '#6C6D6C'
-    - '#B4B4B3'
-  rhythmicContrast: 0.09904777235351503
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-22711039-2
-  facebook: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
-name: MHCPhotography
-author:
-  name: Mike Cutler
-  email: ''
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8092f21f-1fce-4788-b454-fdc3bf1db82c.jpg
-typography_spectrum: 0.59447
-layout_spectrum: 0.4151976963039488
+title: Mike Cutler // Automotive Photographer & Filmmaker
+purpose: []
