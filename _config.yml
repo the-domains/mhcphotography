@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.3102079678792506
+  saturation: 1
   brandStrength: 0.9874625934753567
-  rhythmicContrast: 0.09904777235351503
+  lightness: 0.9689008
   brandColors:
     - '#FFFFFE'
     - '#1B1919'
     - '#EFE847'
     - '#6C6D6C'
     - '#B4B4B3'
-  lightness: 0.9689007757697254
+  rhythmicContrast: 0.6827957
 cta:
   bucket: null
   version: null
@@ -34,10 +34,10 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
-name: MHCPhotography
 author:
   name: Mike Cutler
   email: ''
+name: MHCPhotography
 opengraph:
   image: null
   type: null
