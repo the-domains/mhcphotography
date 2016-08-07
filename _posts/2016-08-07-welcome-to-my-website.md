@@ -1,13 +1,13 @@
 ---
 description: 'Contact:'
-dateModified: '2016-08-07T15:49:48.691Z'
-datePublished: '2016-08-07T15:58:15.930Z'
+dateModified: '2016-08-07T15:58:33.919Z'
+datePublished: '2016-08-07T15:58:34.186Z'
 title: Welcome to my website!
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-07-welcome-to-my-website.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
