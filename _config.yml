@@ -29,7 +29,10 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation: []
+navigation:
+  - name: Demo Reel
+    url: 'https://vimeo.com/118630507'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9d6c3-923a-4f07-b1ed-4502f9cd182c.png
 collections:
